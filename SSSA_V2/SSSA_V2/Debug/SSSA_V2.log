@@ -1,4 +1,0 @@
-﻿  main.cpp
-d:\visual studio 2017\projects\sssa_v2\sssa_v2\main.cpp(12): warning C4101: “j”: 未引用的局部变量
-d:\visual studio 2017\projects\sssa_v2\sssa_v2\main.cpp(12): warning C4101: “i”: 未引用的局部变量
-  SSSA_V2.vcxproj -> D:\Visual Studio 2017\projects\SSSA_V2\Debug\SSSA_V2.exe
