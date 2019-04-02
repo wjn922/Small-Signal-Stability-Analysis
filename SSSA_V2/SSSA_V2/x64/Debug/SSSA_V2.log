@@ -1,0 +1,21 @@
+﻿  main.cpp
+d:\visual studio 2017\projects\sssa_v2\sssa_v2\sssa_inputfile.cpp(398): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio 2017\projects\sssa_v2\sssa_v2\sssa_inputfile.cpp(512): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio 2017\projects\sssa_v2\sssa_v2\sssa_inputfile.cpp(631): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio 2017\projects\sssa_v2\sssa_v2\sssa_inputfile.cpp(739): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio 2017\projects\sssa_v2\sssa_v2\sssa_inputfile.cpp(740): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio 2017\projects\sssa_v2\sssa_v2\sssa_dimension.cpp(11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio 2017\projects\sssa_v2\sssa_v2\sssa_initvalue_gene.cpp(12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio 2017\projects\sssa_v2\sssa_v2\sssa_initvalue_exci.cpp(9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio 2017\projects\sssa_v2\sssa_v2\sssa_genesystem.cpp(19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio 2017\projects\sssa_v2\sssa_v2\sssa_networksystem.cpp(6): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio 2017\projects\sssa_v2\sssa_v2\sssa_networksystem.cpp(11): warning C4101: “Iy”: 未引用的局部变量
+d:\visual studio 2017\projects\sssa_v2\sssa_v2\sssa_networksystem.cpp(11): warning C4101: “Ix”: 未引用的局部变量
+d:\visual studio 2017\projects\sssa_v2\sssa_v2\sssa_networksystem.cpp(15): warning C4101: “qu”: 未引用的局部变量
+d:\visual studio 2017\projects\sssa_v2\sssa_v2\sssa_networksystem.cpp(15): warning C4101: “pu”: 未引用的局部变量
+d:\visual studio 2017\projects\sssa_v2\sssa_v2\sssa_connect_system.cpp(20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio 2017\projects\sssa_v2\sssa_v2\sssa_connect_system.cpp(33): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio 2017\projects\sssa_v2\sssa_v2\pf_compute.cpp(6): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio 2017\projects\sssa_v2\sssa_v2\main.cpp(34): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio 2017\projects\sssa_v2\sssa_v2\main.cpp(35): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  SSSA_V2.vcxproj -> D:\Visual Studio 2017\projects\SSSA_V2\x64\Debug\SSSA_V2.exe
