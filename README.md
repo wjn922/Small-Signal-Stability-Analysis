@@ -14,3 +14,7 @@ open the project SSSA_V2.sln, F5 run
 * (4) BPA .swi card
 #### 3、Output file
 * The linear model in the form of matrices (J,T)
+
+## Files
+#### 1、SSSA_V2 outputs the matrices (J,T) in the form of two-dimension array
+#### 2、SSSA_V2 - sparse uses the sparse technique and outputs the matrices (J,T) in the form of CRS
