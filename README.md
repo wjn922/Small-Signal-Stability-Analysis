@@ -1,6 +1,6 @@
 # Small-Signal-Stability-Analysis
 * written in C++
-* This project refers to the SSS of a large-scale AC-DC power system.
+* This project refers to the SSSA of a large-scale AC-DC power system.
 
 ## How to use
 open the project SSSA_V2.sln, F5 run
